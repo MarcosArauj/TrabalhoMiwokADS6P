@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.miwok.MainActivity">
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/Categoria"
+        android:background="@color/categoria_numeros"
+        android:text="@string/categoria_numeros" />
+
+    <TextView
+        android:id="@+id/family"
+        style="@style/Categoria"
+        android:background="@color/categoria_familia"
+        android:text="@string/categoria_familia" />
+
+    <TextView
+        android:id="@+id/colors"
+        style="@style/Categoria"
+        android:background="@color/categoria_cores"
+        android:text="@string/categoria_cores" />
+
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/Categoria"
+        android:background="@color/categria_frases"
+        android:text="@string/categria_frases" />
+
+</LinearLayout>

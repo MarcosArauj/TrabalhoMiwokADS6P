@@ -1,0 +1,19 @@
+<resources>
+    <!-- Título da aplicação -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Nome da categoria para frases-->
+    <string name="categria_frases">Frases</string>
+
+    <!-- Nome da categoria para cores-->
+    <string name="categoria_cores">Cores</string>
+
+    <!-- Nome da categoria para números-->
+    <string name="categoria_numeros">Números</string>
+
+    <!-- Nome da categoria para familia -->
+    <string name="categoria_familia">Familia </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
